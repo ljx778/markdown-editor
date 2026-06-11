@@ -2,7 +2,7 @@
 
 一个功能完善、界面美观、性能优秀的在线 Markdown 编辑器。
 
-[![Deploy with Vercel](https://img.shields.io/badge/Deploy%20with%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/markdown-editor)
+[![Deploy with Vercel](https://img.shields.io/badge/Deploy%20with%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/new/clone?repository-url=https://github.com/ljx778/markdown-editor)
 
 ## 功能特性
 
@@ -60,9 +60,9 @@ npm run preview
 
 ### 方法一：点击按钮部署
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/markdown-editor)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ljx778/markdown-editor)
 
-> ⚠️ **注意**：部署前请先将 `YOUR_USERNAME` 替换为你的 GitHub 用户名，或直接点击按钮后在 Vercel 中选择 "Import Git Repository"
+> ⚠️ **注意**：部署前请先将 `ljx778` 替换为你的 GitHub 用户名，或直接点击按钮后在 Vercel 中选择 "Import Git Repository"
 
 ### 方法二：从 GitHub 导入
 
@@ -101,17 +101,17 @@ docker run -d -p 80:80 markdown-editor
 
 ### 浅色主题
 
-![浅色主题](https://raw.githubusercontent.com/YOUR_USERNAME/markdown-editor/main/screenshots/light-theme.png)
+![浅色主题](https://raw.githubusercontent.com/ljx778/markdown-editor/main/screenshots/light-theme.png)
 
 ### 深色主题
 
-![深色主题](https://raw.githubusercontent.com/YOUR_USERNAME/markdown-editor/main/screenshots/dark-theme.png)
+![深色主题](https://raw.githubusercontent.com/ljx778/markdown-editor/main/screenshots/dark-theme.png)
 
 ### 导出功能
 
-![导出功能](https://raw.githubusercontent.com/YOUR_USERNAME/markdown-editor/main/screenshots/export-menu.png)
+![导出功能](https://raw.githubusercontent.com/ljx778/markdown-editor/main/screenshots/export-menu.png)
 
-> 📝 **说明**：请将截图保存到 `screenshots/` 目录，并将 `YOUR_USERNAME` 替换为你的 GitHub 用户名。
+> 📝 **说明**：请将截图保存到 `screenshots/` 目录，并将 `ljx778` 替换为你的 GitHub 用户名。
 
 ## 项目结构
 
