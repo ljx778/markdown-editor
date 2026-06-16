@@ -80,10 +80,28 @@ npm run preview
 docker build -t markdown-editor .
 
 # 运行容器
-docker run -d -p 80:80 markdown-editor
+docker run -d -p 8080:80 --name markdown-editor-container markdown-editor
 ```
 
-访问 http://localhost 查看编辑器
+访问 http://localhost:8080 查看编辑器
+
+### 方法四：使用 Docker Compose 一键部署（推荐）
+
+```bash
+# 启动服务（后台运行）
+docker-compose up -d
+
+# 停止服务
+docker-compose down
+
+# 查看日志
+docker-compose logs
+
+# 重新构建并启动
+docker-compose up -d --build
+```
+
+访问 http://localhost:8080 查看编辑器
 
 ## 技术栈
 
